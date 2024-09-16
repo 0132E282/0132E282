@@ -1,9 +1,9 @@
 
 
+<p align="start">Welcome to my GitHub profile! Here, you can explore my projects and see what I’ve been working on. Feel free to take a look around and discover my work! Wishing you a smooth and productive day 🌟😊 </p>
+
 # <p align="center">Nguyen Hoang Phuc</p>
 **<div align="center"> :telephone_receiver:: [(+84)77-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :octocat:: [github.com/0132E282](https://github.com/0132E282) | :earth_africa: Q12, TP HCM </div>**
-
-<p align="center">Welcome to my GitHub profile! Here, you can explore my projects and see what I’ve been working on. Feel free to take a look around and discover my work! Wishing you a smooth and productive day 🌟😊 </p>
 
 #
 ## Summary
