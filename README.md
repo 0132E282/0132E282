@@ -1,7 +1,8 @@
-<h1 style="text-align: center;">Nguyen Hoang Phuc</h1>
+# <p align="center">Nguyen Hoàng Phúc </p>
+**<div align="center"> Back-end PHP Laravel </div>**
 
-**Back-end PHP Laravel**
-Phone: [077-7575-100](tel:077-7575-100) | Email: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | GitHub: [github.com/0132E282](https://github.com/0132E282) | Location: Q12, TP HCM
+**<div align="center"> :telephone_receiver:: [077-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :octocat:: [github.com/0132E282](https://github.com/0132E282) | :earth_africa: Q12, TP HCM </div>**
+#
 
 ## Summary
 
@@ -9,9 +10,10 @@ I have one year of experience with PHP, JavaScript, and another year working wit
 
 ## Education
 
-**FPT College**  
+**FPT College** (2022 -- 2024)
+
 *Major:* Web Design Back-end (PHP Laravel)  
-*Duration:* 2022 -- 2024
+
 
 
 ## Technical Skills
