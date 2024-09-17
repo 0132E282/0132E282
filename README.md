@@ -11,7 +11,8 @@ I have 1 year of experience with PHP 🐘, JavaScript ⚙️, and 1 year working
 
 ## 📖 Experience
 ### Gia Bao House construction company August 2024 – now
-Intern content SEO
+
+Search Engine Optimization (SEO) Intern
 1. Created SEO-friendly content to help boost rankings on Google and attract more visitors.
 2. Optimized both on-page and off-page SEO, like using the right keywords, improving meta tags, and building backlinks to increase visibility.
 
