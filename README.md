@@ -1,7 +1,7 @@
 
 ![Nguyễn Hoàng Phúc (4)](https://github.com/user-attachments/assets/aeb35ad6-8486-483c-adfd-cf600cc94df2)
 
-**<div align="center"> :telephone_receiver:: [(+84)77-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :earth_africa: Q7, TP HCM Viet, Nam </div>**
+**<div align="center"> :telephone_receiver:: [(+84)77-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :earth_africa: Q7, TP HCM, Viet Nam </div>**
 
 ## 🌟 Summary 
 I have 1 year of experience with PHP 🐘, JavaScript ⚙️, and 1 year working with ReactJS ⚛️ and Laravel 🌐. I'm hardworking 💪, a team player 🤝, and eager to learn 📚 new technologies. My goal is to use my skills to create user-friendly 🖥️, engaging websites 🌟 that attract users and improve performance
