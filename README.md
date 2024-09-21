@@ -7,7 +7,7 @@
 I have 1 year of experience with PHP 🐘, JavaScript ⚙️, and 1 year working with ReactJS ⚛️ and Laravel 🌐. I'm hardworking 💪, a team player 🤝, and eager to learn 📚 new technologies. My goal is to use my skills to create user-friendly 🖥️, engaging websites 🌟 that attract users and improve performance
 
 ## 📖 Experience
-### Gia Bao House construction company August 2024 – now
+### Gia Bao House construction company (August 2024 – now)
 
 Search Engine Optimization (SEO) Intern
 1. Created SEO-friendly content to help boost rankings on Google and attract more visitors.
@@ -15,7 +15,7 @@ Search Engine Optimization (SEO) Intern
 
 ## 🎓 Education
 
-**FPT College** (2022 -- 2024)
+**FPT College (2022 -- 2024)** 
 
 *Major:* Web Design Back-end (PHP Laravel)  
 ## 💻 TECHNICAL SKILLS:
