@@ -4,7 +4,7 @@
 
 ![Nguyễn Hoàng Phúc (3)](https://github.com/user-attachments/assets/9ec567d9-4b6a-4511-a2b0-6a4c26aa0a98)
 
-**<div align="center" style="background-color: #0a0a0a;"> :telephone_receiver:: [(+84)77-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :earth_africa: Q7, TP HCM Viet, Nam </div>**
+**<div align="center"> :telephone_receiver:: [(+84)77-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :earth_africa: Q7, TP HCM Viet, Nam </div>**
 #
 
 ## 🌟 Summary 
