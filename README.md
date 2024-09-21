@@ -1,4 +1,4 @@
-
+Welcome to my GitHub profile! Here, you can explore my projects and see what I’ve been working on. Feel free to take a look around and discover my work! Wishing you a smooth and productive day 🌟😊
 
 ![Nguyễn Hoàng Phúc (3)](https://github.com/user-attachments/assets/9ec567d9-4b6a-4511-a2b0-6a4c26aa0a98)
 
