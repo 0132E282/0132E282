@@ -1,6 +1,5 @@
-Welcome to my GitHub profile! Here, you can explore my projects and see what I’ve been working on. Feel free to take a look around and discover my work! Wishing you a smooth and productive day 🌟😊
 
-![Nguyễn Hoàng Phúc (3)](https://github.com/user-attachments/assets/9ec567d9-4b6a-4511-a2b0-6a4c26aa0a98)
+![Nguyễn Hoàng Phúc (4)](https://github.com/user-attachments/assets/aeb35ad6-8486-483c-adfd-cf600cc94df2)
 
 **<div align="center"> :telephone_receiver:: [(+84)77-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :earth_africa: Q7, TP HCM Viet, Nam </div>**
 #
