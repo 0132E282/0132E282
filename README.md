@@ -2,6 +2,7 @@
 
 <p align="start">Welcome to my GitHub profile! Here, you can explore my projects and see what I’ve been working on. Feel free to take a look around and discover my work! Wishing you a smooth and productive day 🌟😊 </p>
 
+![Nguyễn Hoàng Phúc](https://github.com/user-attachments/assets/53b76810-daa9-4613-9fb5-fde7bc8aee31)
 # <p align="center">Nguyen Hoang Phuc</p>
 **<div align="center"> :telephone_receiver:: [(+84)77-7575-100](tel:077-7575-100) | :email:: [phucnguyen200123@gmail.com](mailto:phucnguyen200123@gmail.com) | :earth_africa: Q7, TP HCM Viet, Nam </div>**
 #
