@@ -8,7 +8,7 @@
         <h2>Phuc Nguyen</h2>
         <p><strong>📞 <a href="tel:077-7575-100">(+84) 77-7575-100</a></strong></p>
         <p><strong>✉️ <a href="mailto:phucnguyen200123@gmail.com">phucnguyen200123@gmail.com</a></strong></p>
-        <p><strong>🌍 Q7, TP HCM, Viet Nam</strong></p>
+        <p><strong>🌍 TP HCM, Viet Nam</strong></p>
       </td>
     </tr>
   </table>
