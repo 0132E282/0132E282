@@ -2,7 +2,7 @@
   <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
     <tr>
       <td width="20%" align="center">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93367209/412084361-8dd130b2-7ff4-4f7b-9716-3a9a92013990.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250211T170520Z&X-Amz-Expires=300&X-Amz-Signature=347485db2bab474c890e54d9336b096e923e1e8bac72b36fee9af84050d52038&X-Amz-SignedHeaders=host" width="150px" style="border-radius: 50%;">
+        <img src="https://github.com/user-attachments/assets/01b8a626-cc09-4a8a-94d7-e944b1d9ad7f" width="150px" style="border-radius: 50%;">
       </td>
       <td width="900px" align="left">
         <h2>Phuc Nguyen</h2>
@@ -13,6 +13,7 @@
     </tr>
   </table>
 
+
 ## 🌟 About Me
 - 💻 **Web Developer** with **1 year** of experience in **PHP 🐘, JavaScript ⚙️, ReactJS ⚛️, and Laravel 🌐**.
 - 💡 Passionate about **modern, responsive, and high-performance web applications**.
@@ -21,11 +22,18 @@
 ---
 
 ## 🏢 Work Experience
-### 🔹 Gia Bao House Construction Company *(August 2024 – Present)*
+### 🔹 Gia Bao House Construction Company *(August 2024 – November)*
 💡 **SEO Intern**
 - 📈 Created **SEO-friendly content** to improve Google rankings.
 - 🔍 Applied **on-page and off-page SEO** techniques: keyword research, meta optimization, and link-building.
 
+### 🔹 Jamstack Vietnam *(November 2024 – Present)*
+💡 **Backend Laravel Intern**
+- 🛠 Developed and maintained Laravel-based APIs for web applications.
+- ⚡ Optimized database queries and improved application performance with Eloquent ORM and Redis.
+- 🚀 Participated in real-world projects and contributed to bug fixing.
+- 🤝 Collaborated effectively in a team environment, enhancing communication and problem-solving skills.
+- 📅 Managed tasks efficiently using Agile methodologies and project management tools.
 ---
 
 ## 🎓 Education
