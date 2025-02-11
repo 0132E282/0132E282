@@ -1,6 +1,6 @@
 
-<div align="center">
-  <table width="100%" style="max-width: 800px; width: 100%;">
+<div align="center" style="display: block; width: 100vw; overflow-x: auto;">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
     <tr>
       <td width="30%" align="center">
         <img src="https://drive.google.com/uc?export=view&id=1NG4TzfBuoluwDPehUwKdBMSbSD2bbWRk" width="150px" style="border-radius: 50%;">
