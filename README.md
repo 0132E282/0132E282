@@ -1,11 +1,10 @@
 
-<div align="center" style="display: block; width: 100vw; overflow-x: auto;">
   <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
     <tr>
-      <td width="30%" align="center">
-        <img src="https://drive.google.com/uc?export=view&id=1NG4TzfBuoluwDPehUwKdBMSbSD2bbWRk" width="150px" style="border-radius: 50%;">
+      <td width="20%" align="center">
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93367209/412084361-8dd130b2-7ff4-4f7b-9716-3a9a92013990.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250211T170520Z&X-Amz-Expires=300&X-Amz-Signature=347485db2bab474c890e54d9336b096e923e1e8bac72b36fee9af84050d52038&X-Amz-SignedHeaders=host" width="150px" style="border-radius: 50%;">
       </td>
-      <td width="70%" align="left">
+      <td width="900px" align="left">
         <h2>Phuc Nguyen</h2>
         <p><strong>📞 <a href="tel:077-7575-100">(+84) 77-7575-100</a></strong></p>
         <p><strong>✉️ <a href="mailto:phucnguyen200123@gmail.com">phucnguyen200123@gmail.com</a></strong></p>
@@ -13,8 +12,6 @@
       </td>
     </tr>
   </table>
-</div>
-
 
 ## 🌟 About Me
 - 💻 **Web Developer** with **1 year** of experience in **PHP 🐘, JavaScript ⚙️, ReactJS ⚛️, and Laravel 🌐**.
