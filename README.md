@@ -22,7 +22,7 @@
 ---
 
 ## 🏢 Work Experience
-### 🔹 Gia Bao House Construction Company *(August 2024 – November)*
+### 🔹 Gia Bao House Construction Company *(August 2024 – November 2024)*
 💡 **SEO Intern**
 - 📈 Created **SEO-friendly content** to improve Google rankings.
 - 🔍 Applied **on-page and off-page SEO** techniques: keyword research, meta optimization, and link-building.
