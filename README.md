@@ -12,8 +12,8 @@
 - 🔍 Applied **on-page and off-page SEO** techniques: keyword research, meta optimization, and link-building.
 
 ### 🔹 Jamstack Vietnam + Easy AI *(November 2024 – Present)*
-💡 **Backend Laravel Intern**
-- 🛠 Developed and maintained Laravel-based APIs for web applications.
+💡 **Backend Developer**
+- 🛠 Developer and maintained Laravel-based APIs for web applications.
 - ⚡ Optimized database queries and improved application performance with Eloquent ORM and Redis.
 - 🚀 Participated in real-world projects and contributed to bug fixing.
 - 🤝 Collaborated effectively in a team environment, enhancing communication and problem-solving skills.
