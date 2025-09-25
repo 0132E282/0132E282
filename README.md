@@ -11,7 +11,7 @@
 - 📈 Created **SEO-friendly content** to improve Google rankings.
 - 🔍 Applied **on-page and off-page SEO** techniques: keyword research, meta optimization, and link-building.
 
-### 🔹 Jamstack Vietnam *(November 2024 – Present)*
+### 🔹 Jamstack Vietnam + Easy AI *(November 2024 – Present)*
 💡 **Backend Laravel Intern**
 - 🛠 Developed and maintained Laravel-based APIs for web applications.
 - ⚡ Optimized database queries and improved application performance with Eloquent ORM and Redis.
