@@ -1,19 +1,3 @@
-
-  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-    <tr>
-      <td width="20%" align="center">
-        <img src="https://github.com/user-attachments/assets/01b8a626-cc09-4a8a-94d7-e944b1d9ad7f" width="150px" style="border-radius: 50%;">
-      </td>
-      <td width="900px" align="left">
-        <h2>Phuc Nguyen</h2>
-        <p><strong>📞 <a href="tel:077-7575-100">(+84) 77-7575-100</a></strong></p>
-        <p><strong>✉️ <a href="mailto:phucnguyen200123@gmail.com">phucnguyen200123@gmail.com</a></strong></p>
-        <p><strong>🌍 TP HCM, Viet Nam</strong></p>
-      </td>
-    </tr>
-  </table>
-
-
 ## 🌟 About Me
 - 💻 **Web Developer** with **1 year** of experience in **PHP 🐘, JavaScript ⚙️, ReactJS ⚛️, and Laravel 🌐**.
 - 💡 Passionate about **modern, responsive, and high-performance web applications**.
