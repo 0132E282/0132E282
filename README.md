@@ -3,29 +3,6 @@
 - 💡 Passionate about **modern, responsive, and high-performance web applications**.
 - 📚 Always eager to **learn new technologies** and **collaborate with great teams**.
 
----
-
-## 🏢 Work Experience
-### 🔹 Gia Bao House Construction Company *(August 2024 – November 2024)*
-💡 **SEO Intern**
-- 📈 Created **SEO-friendly content** to improve Google rankings.
-- 🔍 Applied **on-page and off-page SEO** techniques: keyword research, meta optimization, and link-building.
-
-### 🔹 Jamstack Vietnam + Easy AI *(November 2024 – Present)*
-💡 **Backend Developer**
-- 🛠 Developer and maintained Laravel-based APIs for web applications.
-- ⚡ Optimized database queries and improved application performance with Eloquent ORM and Redis.
-- 🚀 Participated in real-world projects and contributed to bug fixing.
-- 🤝 Collaborated effectively in a team environment, enhancing communication and problem-solving skills.
-- 📅 Managed tasks efficiently using Agile methodologies and project management tools.
----
-
-## 🎓 Education
-🎓 **FPT College (2022 - 2024)**  
-📚 *Major:* Web Design & Back-end Development (**PHP Laravel**)
-
----
-
 ## 🛠️ Technology
 
 <table>
