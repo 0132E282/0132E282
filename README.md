@@ -43,10 +43,8 @@ Building scalable backend systems, RESTful APIs and modern web applications.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucnh2003&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucnh2003&theme=tokyonight&utcOffset=7" width="49%" />
 </p>
----
 
 ## 📫 Connect
-
-- GitHub: https://github.com/hoangphuc01975
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL@gmail.com
+- Phone/Zalo: 0777575100
+- LinkedIn: https://www.linkedin.com/in/ph%C3%BAc-nuy%E1%BB%85n-ho%C3%A0ng-01a84941b
+- Email: phucnguyen200123@gmail.com
