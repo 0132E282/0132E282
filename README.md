@@ -49,5 +49,5 @@ Building scalable backend systems, RESTful APIs and modern web applications.
 
 ## 📫 Connect
 - Phone/Zalo: 0777575100
-- LinkedIn: https://www.linkedin.com/in/ph%C3%BAc-nuy%E1%BB%85n-ho%C3%A0ng-01a84941b
+- LinkedIn: https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-983bbb323/
 - Email: phucnguyen200123@gmail.com
