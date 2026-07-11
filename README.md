@@ -31,11 +31,6 @@ Building scalable backend systems, RESTful APIs and modern web applications.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-## 🔥 GitHub Activity
-
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=phucnh2003&theme=tokyonight&hide_border=true" />
 </p>
