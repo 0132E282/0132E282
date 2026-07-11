@@ -1,54 +1,82 @@
-## 🌟 About Me
-- 💻 **Web Developer** with **1 year** of experience in **PHP 🐘, JavaScript ⚙️, ReactJS ⚛️, and Laravel 🌐**.
-- 💡 Passionate about **modern, responsive, and high-performance web applications**.
-- 📚 Always eager to **learn new technologies** and **collaborate with great teams**.
+<h1 align="center">Hi 👋, I'm Nguyễn Hoàng Phúc</h1>
 
-## 🛠️ Technology
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔠 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<p align="center">
+<b>Backend Developer</b> • Laravel • PHP • React • Next.js
 </p>
 
-### 🗄️ Databases
-<p >
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<p align="center">
+Building scalable backend systems, RESTful APIs and modern web applications.
 </p>
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 💼 Featured Projects
 
-### 📚 Frameworks & Libraries
-<p >
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+### 🏥 Hospital Management System
+**Backend Developer** • 2025 – Present
+
+Healthcare management platform for **Hospital of Medicine and Pharmacy at Ho Chi Minh City**.
+
+🌐 https://bvdaihoc.com.vn
+
+**Tech:** `Laravel` `React` `TypeScript` `MySQL` `REST API`
+
+---
+
+### ⚙️ NoCode Platform
+**Backend Developer** • 2025
+
+Multi-tenant platform with configurable modules and plugin architecture.
+
+🔒 Private Project
+
+**Tech:** `Laravel` `PHP` `MySQL` `REST API`
+
+---
+
+### 💡 Rạng Đông Digital Platform
+**Backend Developer** • 2024 – Present
+
+Enterprise platform for Product, Warranty and QR Code Management.
+
+🌐 https://rangdongstore.vn
+
+**Tech:** `Laravel` `Redis` `MySQL` `Queue Jobs`
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| **Backend** | PHP • Laravel • Node.js |
+| **Frontend** | React • Next.js • TypeScript • JavaScript • Tailwind CSS |
+| **Database** | MySQL • Redis • MongoDB |
+| **Tools** | Git • GitHub • Docker • Postman • Jira |
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=phucnh2003&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucnh2003&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phucnh2003&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucnh2003&theme=tokyonight" width="49%" />
 </p>
 
-### 🛠️ Tools
-<p >
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucnh2003&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucnh2003&theme=tokyonight&utcOffset=7" width="49%" />
 </p>
+---
 
-</td>
-</tr>
-</table>
+## 📫 Connect
 
-
+- GitHub: https://github.com/hoangphuc01975
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: YOUR_EMAIL@gmail.com
