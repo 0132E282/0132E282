@@ -10,41 +10,6 @@ Building scalable backend systems, RESTful APIs and modern web applications.
 
 ---
 
-## 💼 Featured Projects
-
-### 🏥 Hospital Management System
-**Backend Developer** • 2025 – Present
-
-Healthcare management platform for **Hospital of Medicine and Pharmacy at Ho Chi Minh City**.
-
-🌐 https://bvdaihoc.com.vn
-
-**Tech:** `Laravel` `React` `TypeScript` `MySQL` `REST API`
-
----
-
-### ⚙️ NoCode Platform
-**Backend Developer** • 2025
-
-Multi-tenant platform with configurable modules and plugin architecture.
-
-🔒 Private Project
-
-**Tech:** `Laravel` `PHP` `MySQL` `REST API`
-
----
-
-### 💡 Rạng Đông Digital Platform
-**Backend Developer** • 2024 – Present
-
-Enterprise platform for Product, Warranty and QR Code Management.
-
-🌐 https://rangdongstore.vn
-
-**Tech:** `Laravel` `Redis` `MySQL` `Queue Jobs`
-
----
-
 ## 🛠 Tech Stack
 
 | Category | Technologies |
