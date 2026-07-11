@@ -12,12 +12,17 @@ Building scalable backend systems, RESTful APIs and modern web applications.
 
 ## 🛠 Tech Stack
 
-| Category | Technologies |
-|-----------|--------------|
-| **Backend** | PHP • Laravel • Node.js |
-| **Frontend** | React • Next.js • TypeScript • JavaScript • Tailwind CSS |
-| **Database** | MySQL • Redis • MongoDB |
-| **Tools** | Git • GitHub • Docker • Postman • Jira |
+### 💻 Backend
+`PHP` `Laravel` `Node.js`
+
+### 🎨 Frontend
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
+
+### 🗄️ Database
+`MySQL` `Redis` `MongoDB`
+
+### ⚙️ Tools
+`Git` `GitHub` `Docker` `Postman` `Jira` `VS Code`
 
 ---
 
